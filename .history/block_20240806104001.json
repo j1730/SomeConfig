@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "open.e.kuaishou.com"
+      ],
+      "domain_suffix": [],
+      "domain_keyword": []
+    }
+  ]
+}
