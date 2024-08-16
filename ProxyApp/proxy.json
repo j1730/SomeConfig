@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "services.googleapis.cn"
+      ],
+      "domain_suffix": [],
+      "domain_keyword": []
+    }
+  ]
+}
