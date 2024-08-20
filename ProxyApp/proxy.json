@@ -6,7 +6,7 @@
         "services.googleapis.cn",
         "objects.githubusercontent.com"
       ],
-      "domain_suffix": [],
+      "domain_suffix": ["github.com"],
       "domain_keyword": []
     }
   ]
